@@ -29,3 +29,7 @@ Personal development log — notes, findings, and ongoing work.
 - Updated .gitignore to exclude build artifacts
 - Pinned dependency versions for reproducibility
 - Documented config options
+
+## 2026-03-23
+- Updated license year
+- Tidied up project structure
