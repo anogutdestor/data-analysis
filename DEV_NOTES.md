@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 - Cleaned up old debug logs
 - Bumped patch version
 - Removed unused variable declarations
+
+## 2026-03-23
+- Added CONTRIBUTING.md stub
+- Updated .gitignore to exclude build artifacts
